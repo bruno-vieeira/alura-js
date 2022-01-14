@@ -1,6 +1,6 @@
 # Fundamentos Javascript: Cursos Alura
 
- ![cap](Capturar.png)
+ ![cap](images/../Capturar.png)
 - Tipos, variáveis e funções
 - ⏲️ Carga horária: 12h
 ### Objetivos do curso:
@@ -13,7 +13,7 @@
 [Link do curso](https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes)
 
 # Fundamentos do Javascript: Arrays
-![icon](Capturar2a.png)
+![icon](images/../Capturar2a.png)
 - Arrays
 - ⏲️ Carga horária: 10h
 ### Objetivos do curso:
@@ -26,7 +26,7 @@
 [Link do curso](https://cursos.alura.com.br/course/fundamentos-javascript-arrays)
 
 # Fundamentos do Javascript: Objetos
-![icon](Capturar3.png)
+![icon](images/../Capturar3.png)
 - Objetos
 - ⏲️ Carga horária: 10h
 ### Objetivos do curso:
