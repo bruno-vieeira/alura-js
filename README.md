@@ -1,6 +1,6 @@
 # Fundamentos Javascript: Cursos Alura
 
- ![cap](capturar.png)
+ ![cap](Capturar.png)
 - Tipos, variáveis e funções
 - ⏲️ Carga horária: 12h
 ### Objetivos do curso:
