@@ -1,6 +1,6 @@
 # Fundamentos Javascript: Cursos Alura
 
- ![icon](capturar.png)
+ ![Alt text](/relative/path/to/capturar.png?raw=true "icon")
 - Tipos, variáveis e funções
 - ⏲️ Carga horária: 12h
 ### Objetivos do curso:
